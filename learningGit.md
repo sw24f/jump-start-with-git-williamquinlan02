@@ -43,4 +43,4 @@ You can connect with developers around the world to ask and answer questions, le
 
 ### Personal Notes
 this is where I will type my personal notes
-this is a new lnie
+this is a new line
