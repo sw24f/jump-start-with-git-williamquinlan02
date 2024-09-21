@@ -40,3 +40,6 @@ GitHub offers web-based educational programs:
 
 ### Community
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see [GitHub Community Support](https://github.community/).
+
+### Personal Notes
+tihs is where I will type my personal notes
